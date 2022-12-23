@@ -59,7 +59,7 @@ a {
     z-index: 1;
 }
 
-.header {
+.hero-wrap {
     position: relative;
     display: flex;
     flex-direction: column;
